@@ -7,7 +7,7 @@
 
     <name>OWASP Benchmark for Java</name>
     <description>OWASP Benchmark is a Java test suite designed to evaluate the accuracy, coverage, and speed of automated software vulnerability detection tools.</description>
-    <url>https://github.com/OWASP-Benchmark/BenchmarkJava</url>>
+    <url>https://github.com/OWASP-Benchmark/BenchmarkJava</url>
 
     <developers>
         <developer>
